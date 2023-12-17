@@ -1,8 +1,8 @@
-# Google Mobile Ads SDK for Android
+# Google  Mobile Ads SDK for Android
 
 ![Build status](https://github.com/googleads/googleads-mobile-android-examples/workflows/Build%20Status/badge.svg?branch=main)
 
-The Google Mobile Ads SDK is the latest generation in Google mobile advertising,
+The Google  Mobile Ads SDK is the latest generation in Google mobile advertising,
 featuring refined ad formats and streamlined APIs for access to mobile ad
 networks and advertising solutions. The SDK enables mobile app developers to
 maximize their monetization in native mobile apps.
